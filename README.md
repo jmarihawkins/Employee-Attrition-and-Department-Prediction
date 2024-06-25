@@ -33,6 +33,6 @@ In summary, what was found was that the neural network model could predict emplo
 **Reflection**:
 The findings highlight the potential and limitations of the model. The high attrition prediction accuracy is useful for HR departments to identify and address factors leading to employee turnover. However, the lower accuracy in department prediction indicates that additional data features or alternative modeling approaches may be necessary to improve this aspect. This project demonstrates the importance of feature selection and model evaluation in developing effective predictive models for real-world applications.
 
-**Real-World Applications**:
+**Real-World Application**:
 1. **Human Resources**: Companies can use this model to predict which employees are at risk of leaving, enabling proactive measures such as offering incentives, improving working conditions, or addressing individual concerns to improve retention rates.
 2. **Workforce Planning**: This model helps in assigning employees to the most suitable departments based on their profiles, enhancing job satisfaction, productivity, and overall employee performance.
